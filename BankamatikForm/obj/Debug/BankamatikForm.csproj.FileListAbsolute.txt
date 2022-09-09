@@ -1,0 +1,48 @@
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\bin\Debug\BankamatikForm.exe.config
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\bin\Debug\BankamatikForm.exe
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\bin\Debug\BankamatikForm.pdb
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.csproj.AssemblyReference.cache
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.AnaSayfa.resources
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.Properties.Resources.resources
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.csproj.GenerateResource.cache
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.csproj.CoreCompileInputs.cache
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.exe
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.pdb
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.Kartsizİslemler.resources
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.KartliAnaSayfa.resources
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.ParaCekmebolumu.resources
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.ParaYatırmaBolumu.resources
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.ParaTransferleri.resources
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.BilgiGuncelleme.resources
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.Odemeler.resources
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.FaturaOdemeleriKartsız.resources
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.HesabaParaKartsız.resources
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.Hgs.resources
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.Kartsifregiris.resources
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.ParaTransferiEft.resources
+C:\Users\berat\source\repos\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.ParaTransferiHavale.resources
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\bin\Debug\BankamatikForm.exe.config
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\bin\Debug\BankamatikForm.exe
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\bin\Debug\BankamatikForm.pdb
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.csproj.AssemblyReference.cache
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.AnaSayfa.resources
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.BilgiGuncelleme.resources
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.FaturaOdemeleriKartsız.resources
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.HesabaParaKartsız.resources
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.Hgs.resources
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.KartliAnaSayfa.resources
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.Kartsifregiris.resources
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.Kartsizİslemler.resources
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.Odemeler.resources
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.ParaCekmebolumu.resources
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.ParaTransferiEft.resources
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.ParaTransferiHavale.resources
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.ParaTransferleri.resources
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.ParaYatırmaBolumu.resources
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.Properties.Resources.resources
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.csproj.GenerateResource.cache
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.csproj.CoreCompileInputs.cache
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.exe
+C:\Users\berat\OneDrive\Masaüstü\C # PROJELERİ\BankamatikForm\BankamatikForm\obj\Debug\BankamatikForm.pdb
